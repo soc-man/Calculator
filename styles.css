@@ -1,0 +1,33 @@
+.btns {
+    height: 345px ;
+    width: 400px ;
+    align-content: center;
+    background-color: #336699;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 1px;
+    border-radius: 5px;
+}
+button {
+    width: 90px;
+    height: 65px;
+    cursor: pointer;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    width: 95px;
+    max-width: 100%;
+    white-space: nowrap;
+}
+.display {
+    text-align: left;
+    width: 400px;
+    border: 1px solid black;
+    height: 58px;
+    background-color: #a2af77;
+    margin: 0 auto;
+    border-radius: 5px ;
+}
+h1 {
+    text-align: center;
+}
